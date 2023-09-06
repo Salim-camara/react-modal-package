@@ -42,7 +42,7 @@ const MyPage = ({ children }) => {
 export default MyPage;
 ```
 
-## Pops
+## Props
 
 - ⚠️(required) visible: (bolean)
 - ⚠️(required) setVisible: for close button (return false)
