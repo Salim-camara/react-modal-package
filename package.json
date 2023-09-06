@@ -1,0 +1,24 @@
+{
+  "name": "react-modal-package",
+  "version": "1.0.0",
+  "description": "This modal take all view screen with dark effect",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/babel src --out-file index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modal"
+  ],
+  "author": "salim_camara",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.15",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.15",
+    "@babel/preset-react": "^7.22.15"
+  }
+}
