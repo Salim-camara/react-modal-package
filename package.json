@@ -1,5 +1,5 @@
 {
-  "name": "react-modal-package",
+  "name": "react-simple-modal-package",
   "version": "1.0.0",
   "description": "This modal take all view screen with dark effect",
   "main": "index.js",
