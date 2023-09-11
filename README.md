@@ -44,9 +44,11 @@ export default MyPage;
 
 ## Props
 
-- ⚠️(required) visible: (bolean)
-- ⚠️(required) setVisible: for close button (return false)
-- children: <Modal>Your children here !</Modal>
-- backdropOpacity: makes the background darker (default 0.5)
-- modalStyle: change modal style (object)
-- disableCloseButton: (bolean)
+| Prop               | Type      | Required | Description                                 |
+| ------------------ | --------- | -------- | ------------------------------------------- |
+| visible            | bolean    | true     | -                                           |
+| setVisible         | function  | true     | for close button (return false)             |
+| children           | component | false    | <Modal>Your children here !</Modal>         |
+| backdropOpacity    | integer   | false    | handle the background opacity (default 0.5) |
+| modalStyle         | object    | false    | handle modal style                          |
+| disableCloseButton | bolean    | false    | -                                           |
