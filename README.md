@@ -4,7 +4,7 @@ This modal take all view screen with backdrop dark effect.
 
 ## Screenshots
 
-![App Screenshot](./packageVisual.png)
+![App Screenshot](https://github.com/Salim-camara/react-modal-package/blob/main/packageVisual.png)
 
 ## Installation
 
